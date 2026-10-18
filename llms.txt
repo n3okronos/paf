@@ -1,0 +1,22 @@
+# PADFLU
+
+> PADFLU, tu oficina inteligente: cuatro productos que simplifican tu operación — PAF · Flujos, PAI · Información, PAC · Cumplimiento y PAN · Nóminas.
+
+PADFLU — Tu oficina inteligente. Cuatro productos empresariales: PAF · Flujos, PAI · Información, PAC · Cumplimiento y PAN · Nóminas. Sitio en español (México): https://cloudpaf.com/ · Solicitudes de demo: contacto@cloudpaf.com
+
+## Productos
+
+- [PAF · Flujos](https://cloudpaf.com/#paf-flujos): Control empresarial. Tu oficina inteligente de control empresarial. Pon en orden todas tus empresas. Conecta Administración, Bancos, Facturación, Contabilidad y Operaciones, y automatiza la conciliación de tus movimientos bancarios.
+- [PAC · Cumplimiento](https://cloudpaf.com/#pac-cumplimiento): Cumplimiento. Tu oficina inteligente de cumplimiento. Toma decisiones sobre clientes, proveedores y socios con una visión clara de sus riesgos.
+- [PAI · Información](https://cloudpaf.com/#pai-informacion): Análisis financiero. Tu oficina inteligente de información. Tu analista financiero automatizado. Entiende los resultados de tu negocio en segundos.
+- [PAN · Nóminas](https://cloudpaf.com/#pan-nominas): Recursos humanos. Tu oficina inteligente de recursos humanos. Controla el costo de tu equipo y llega a cada cierre de nómina con claridad sobre cuánto pagar y qué ajustes revisar.
+
+## Página
+
+- [Contenido completo en Markdown](https://cloudpaf.com/index.md): el texto íntegro de https://cloudpaf.com/ con sus secciones y enlaces.
+- [Lo que cambia en tu operación](https://cloudpaf.com/#problemas): problemas frecuentes y el producto que atiende cada uno.
+- [Solicitar una demo](https://cloudpaf.com/#contacto): formulario de contacto; también por correo a contacto@cloudpaf.com.
+
+## Optional
+
+- [llms-full.txt](https://cloudpaf.com/llms-full.txt): el mismo contenido completo de la página en un solo archivo de texto.

@@ -1,4 +1,21 @@
+# PADFLU · https://cloudpaf.com
+# Todo el sitio es público. Buscadores y agentes de IA son bienvenidos.
+
 User-agent: *
 Allow: /
 
+# Rastreadores y agentes de IA (permitidos explícitamente)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Claude-SearchBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+
+# Contenido para agentes: https://cloudpaf.com/llms.txt · https://cloudpaf.com/index.md
 Sitemap: https://cloudpaf.com/sitemap.xml
