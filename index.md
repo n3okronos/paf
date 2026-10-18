@@ -96,6 +96,8 @@ Tu oficina inteligente.
 - [Plataformas](https://cloudpaf.com/#pipeline)
 - [Qué resolvemos](https://cloudpaf.com/#problemas)
 - [Contactar a PADFLU](mailto:contacto@cloudpaf.com)
+- [Facebook](https://www.facebook.com/profile.php?id=61595598655874)
+- [Instagram](https://www.instagram.com/cloudpaf/)
 
 © 2026 PADFLU.
 
